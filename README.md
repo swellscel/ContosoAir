@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/emilioroar0629/emilio_roar/_apis/build/status/swellscel.ContosoAir?branchName=master)](https://dev.azure.com/emilioroar0629/emilio_roar/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
